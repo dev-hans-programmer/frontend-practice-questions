@@ -1,0 +1,13 @@
+.folder-container {
+   max-width: 300px;
+   margin: 10px 0;
+}
+.buttons {
+   display: flex;
+   gap: 5px;
+}
+.folder {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
